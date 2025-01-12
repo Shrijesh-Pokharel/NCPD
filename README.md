@@ -106,7 +106,3 @@ Enter path to wordlist: directory-list-2.3-small
 Be mindful of the environments in which you run this script. Misuse can lead to legal consequences. Always obtain proper authorization before conducting security testing.
 
 ---
-
-## License
-This script is distributed under the [MIT License](https://opensource.org/licenses/MIT). Use at your own risk.
-
