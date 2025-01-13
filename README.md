@@ -6,6 +6,7 @@ This script is for **educational purposes only**. Unauthorized use or any intent
 ---
 
 ## Overview
+NCPD refers to Nmap, Crack-password, Port-listening and Directory-scan.
 This Bash script provides a menu-driven interface for executing various penetration testing tools and techniques. The tools and techniques included in this script focus on network reconnaissance, password cracking, port listening, and directory brute-forcing. Each of these tasks uses well-known tools such as `nmap`, `hashcat`, `python3`, and `gobuster`.
 
 ---
