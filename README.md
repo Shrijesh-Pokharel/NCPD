@@ -50,7 +50,7 @@ Some tools may require elevated permissions (e.g., `sudo`) to function correctly
 ## Usage
 1. Make the script executable:
    ```bash
-   chmod +x    ncpd.sh
+   chmod +x    NCPD.sh
    ```
 
 2. Run the script:
