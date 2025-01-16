@@ -50,12 +50,12 @@ Some tools may require elevated permissions (e.g., `sudo`) to function correctly
 ## Usage
 1. Make the script executable:
    ```bash
-   chmod +x hacker_tools.sh
+   chmod +x    ncpd.sh
    ```
 
 2. Run the script:
    ```bash
-   ./hacker_tools.sh
+   ./NCPD.sh
    ```
 
 3. Follow the menu prompts to select the desired tool or technique.
